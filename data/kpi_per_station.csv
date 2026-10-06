@@ -1,0 +1,5 @@
+,ideal_cycle_min,failures,downtime_min,planned_min,run_time_min,total_parts,good_parts,availability,performance,quality,OEE,MTBF_min,MTTR_min
+Cutting,4,16,462.885,4800,4337.115,972,937,0.904,0.896,0.964,0.781,271.07,28.93
+Welding,6,11,298.331,4800,4501.669,746,704,0.938,0.994,0.944,0.88,409.243,27.121
+Painting,5,13,372.949,4800,4427.051,745,712,0.922,0.841,0.956,0.742,340.542,28.688
+Inspection,3,13,369.96,4800,4430.04,744,717,0.923,0.504,0.964,0.448,340.772,28.458
